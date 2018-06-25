@@ -74,8 +74,8 @@ header.startup h1 {
 }
 
 .btn-outline-success:hover{
-  background-color:rgba(255, 234, 62);
-  border-color:rgba(255, 234, 62);
+  background-color: grey;
+  border-color: grey;
 }
 
 .form-control{
