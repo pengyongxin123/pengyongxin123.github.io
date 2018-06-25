@@ -63,4 +63,22 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
+.btn-outline-success{
+  color: white;
+  font-weight: 100;
+  text-transform: uppercase;
+  border-radius: 300px;
+  background-color: #F05F44;
+  border-color: #F05F44; 
+}
+
+.btn-outline-success:hover{
+  background-color:rgba(255, 234, 62);
+  border-color:rgba(255, 234, 62);
+}
+
+.form-control{
+  border-radius:300px;
+  font-weight:100;
+}
